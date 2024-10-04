@@ -1,2 +1,0 @@
-audio.play_bitrate_non_metered_migrated=true
-connect.dial_devices="[{\"address\":\"192.168.50.5\",\"app_state\":\"MISSING\",\"created_timestamp\":1727999934,\"device_id\":\"976212e3-a015-3a6f-8e19-28848963a4b7\",\"dial_location_url\":\"http://192.168.50.5:60000/dd.xml\",\"display_name\":\"Joe's FireTVStick\",\"last_seen\":1727999973,\"manufacturer\":\"Amazon\",\"model_name\":\"AFTSSS\",\"product_cap\":\"\",\"public_ip\":\"46.110.110.44\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"c86c3d722de4\",\"port\":9,\"retries\":800}}]"

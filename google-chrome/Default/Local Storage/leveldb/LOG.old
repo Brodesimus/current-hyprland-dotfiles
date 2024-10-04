@@ -1,9 +1,0 @@
-2024/10/03-12:49:21.046 4 Reusing MANIFEST /home/brodesimus/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/10/03-12:49:21.049 4 Recovering log #6
-2024/10/03-12:49:21.050 4 Reusing old log /home/brodesimus/.config/google-chrome/Default/Local Storage/leveldb/000006.log 
-2024/10/03-12:55:21.308 5 Level-0 table #10: started
-2024/10/03-12:55:21.314 5 Level-0 table #10: 16390 bytes OK
-2024/10/03-12:55:21.322 5 Delete type=0 #6
-2024/10/03-13:44:21.308 5 Level-0 table #12: started
-2024/10/03-13:44:21.312 5 Level-0 table #12: 16720 bytes OK
-2024/10/03-13:44:21.319 5 Delete type=0 #9
