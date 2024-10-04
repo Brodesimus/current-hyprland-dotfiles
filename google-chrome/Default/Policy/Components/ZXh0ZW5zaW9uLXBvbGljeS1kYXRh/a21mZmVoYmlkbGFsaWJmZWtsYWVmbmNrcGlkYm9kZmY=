@@ -1,0 +1,64 @@
+{
+  "RunTimeMode": {
+    "Value": "gen4_auto"
+  },
+  "Gen4ProxyHost": {
+    "Value": "node-cluster126573-swg.ibosscloud.com"
+  },
+  "Gen4AutoRegisterSecurePort": {
+    "Value": 443
+  },
+  "Gen4AutoRegisterPort": {
+    "Value": 8016
+  },
+  "Gen4AutoLoginEncryptionRegistration": {
+    "Value": 1
+  },
+  "Gen4AutoLoginComputerOverridesUser": {
+    "Value": 0
+  },
+  "Gen4AutoLoginSecurityGroups": {
+    "Value": "HighStudentTemplate"
+  },
+  "WebSecurityKey": {
+    "Value": "29XA3PD23293"
+  },
+  "Gen4ProxyAutoConfigurationScriptURL": {
+    "Value": "http://node-cluster126573-swg.ibosscloud.com:7080/ibreports/web/pac/U2VqvAJzBVP6064/v2/proxy.pac"
+  },
+  "Gen4ProxyPort": {
+    "Value": 80
+  },
+  "Gen4ProxyBypass": {
+    "Value": [
+      "_"
+    ]
+  },
+  "Gen4ProxyMonitorInterval": {
+    "Value": 5000
+  },
+  "Gen4AutoLoginRegistrationInterval": {
+    "Value": 3600
+  },
+  "Gen4AutoLoginCaptivePortalDetection": {
+    "Value": 1
+  },
+  "Gen4AutoLoginCaptivePortalDetectionInterval": {
+    "Value": 5000
+  },
+  "ChromeBridgeIP": {
+    "Value": "100.115.92.0"
+  },
+  "IpAddressCheckInterval": {
+    "Value": 900
+  },
+  "SendCompleteEmail": {
+    "Value": false
+  },
+  "ReloadTabs": {
+    "Value": true
+  },
+  "PACServerPort": {
+    "Value": 8887
+  }
+}

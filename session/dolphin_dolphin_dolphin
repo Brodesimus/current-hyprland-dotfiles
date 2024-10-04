@@ -1,0 +1,13 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00\x1ffile:///home/brodesimus/.config\x00\x00\x00\x00\x01\x00\x00\x00%file:///home/brodesimus/.config/xfce4\x00\x00\x00\x11\x00\x00\x00#file:///home/brodesimus/.config/wal\x00\x00\x00&file:///home/brodesimus/.config/waybar\x00\x00\x00(file:///home/brodesimus/.config/waypaper\x00\x00\x00'file:///home/brodesimus/.config/wlogout\x00\x00\x00%file:///home/brodesimus/.config/xfce4\x00\x00\x00*file:///home/brodesimus/.config/xsettingsd\x00\x00\x00#file:///home/brodesimus/.config/yay\x00\x00\x00%file:///home/brodesimus/.config/zshrc\x00\x00\x006file:///home/brodesimus/.config/baloofileinformationrc\x00\x00\x00+file:///home/brodesimus/.config/baloofilerc\x00\x00\x00/file:///home/brodesimus/.config/code-flags.conf\x00\x00\x00)file:///home/brodesimus/.config/dolphinrc\x00\x00\x00*file:///home/brodesimus/.config/kdeglobals\x00\x00\x00/file:///home/brodesimus/.config/pavucontrol.ini\x00\x00\x002file:///home/brodesimus/.config/spotify-flags.conf\x00\x00\x00-file:///home/brodesimus/.config/starship.toml\x00\x00\x00.file:///home/brodesimus/.config/user-dirs.dirs\x00\x00\x00\x00\x00\x00\x04\xb1\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16
+ToolButtonStyle=IconOnly

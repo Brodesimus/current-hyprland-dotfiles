@@ -1,0 +1,5 @@
+[Added Associations]
+text/plain=org.gnome.TextEditor.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop
